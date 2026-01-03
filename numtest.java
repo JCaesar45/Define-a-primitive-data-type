@@ -1,7 +1,7 @@
 /**
  * Num - A primitive data type that behaves like an integer with constrained range (1-10)
  * 
- * @author Your Name
+ * @author Jordan Leturgez
  * @version 1.0.0
  */
 public class Num {
